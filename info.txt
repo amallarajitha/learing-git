@@ -8,6 +8,4 @@ svn is good
 =======
 svn is good
 svn popular 
-this is task1
-applees
->>>>>>> caf3484 (applees)
+showing
