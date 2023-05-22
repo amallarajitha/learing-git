@@ -3,4 +3,11 @@ git is popular tool.
 git is best
 add by me
 add by u
+<<<<<<< HEAD
 svn is good
+=======
+svn is good
+svn popular 
+this is task1
+applees
+>>>>>>> caf3484 (applees)
